@@ -1,0 +1,16 @@
+{
+  "name": "sweet-blitz-saga",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo \"No build step required for static site\"",
+    "android:sync": "npx cap sync android",
+    "android:open": "npx cap open android",
+    "android:build": "npx cap build android"
+  },
+  "dependencies": {
+    "@capacitor/cli": "^7.0.0",
+    "@capacitor/core": "^7.0.0"
+  }
+}

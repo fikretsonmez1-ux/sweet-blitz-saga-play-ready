@@ -1,0 +1,9 @@
+{
+  "appId": "com.sweetblitz.saga",
+  "appName": "Sweet Blitz Saga",
+  "webDir": ".",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}

@@ -1,0 +1,23 @@
+---
+title: Play Store metadata
+---
+
+app_title: Sweet Blitz Saga
+package_name: com.sweetblitz.saga
+
+short_description_tr: "Renkli, hızlı ve bağımlılık yapan bir eşleştirme oyunu."
+full_description_tr: |
+  Sweet Blitz Saga, renkli ve hızlı bir eşleştirme oyunu. 8x8 tahta üzerinde aynı renkte nesneleri eşleştirerek seviyeleri tamamlayın. Her seviyede hedef puanı aşın ve sınırlı hamlelerle ilerleyin. 50 el işlenmiş seviye, bonus kombinasyonlar ve mobil için optimize edilmiş kontroller sunar.
+
+short_description_en: "A colorful, fast, and addictive match puzzle game."
+full_description_en: |
+  Sweet Blitz Saga is a colorful and fast-paced match puzzle game. Swap adjacent sweets to make combos, clear tiles and reach the target score before your moves run out. Features 50 levels, combo mechanics and smooth touch controls.
+
+privacy_policy_url: https://example.com/privacy
+
+assets:
+  icon_512: icons/icon-512.png
+  feature_graphic: assets/feature-graphic.png
+  screenshots:
+    - assets/screenshot-1.png
+    - assets/screenshot-2.png
